@@ -1,2 +1,0 @@
-# MMDA2020
-MMDA Projekt 
